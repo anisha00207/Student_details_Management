@@ -12,6 +12,7 @@ A responsive web-based application for managing student details, built using HTM
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Responsiveness](#responsiveness)
+- [yet to come](#yet-to-come)
 - [Future Enhancements](#future-enhancements)
 
 ---
@@ -62,7 +63,7 @@ The **Student Management System** allows users to view student information based
    cd student-management-system
    ```
 
-3. create the database in php my admin and crate three tables named admin, student, teacher
+3. create the database in php my admin and create three tables named admin, student, staff
 
 4. Set up the database:
     - Update the `dblink.php` file with your database credentials.
