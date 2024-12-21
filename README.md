@@ -103,11 +103,14 @@ The project uses responsive design to ensure compatibility with various devices:
 
 ---
 
+## yet to come
+- Admin can insert, update, delete staff data too.
+- Attendence management
+- A homepage with detailed instructions about th website
+
 ## Future Enhancements
 
 - Add functionality for student data insertion, updates, and deletion.
-- Attendence management can also be included
-- Admin can insert, update, delete teacher data too. 
 - Enhance UI with a modern CSS framework like Bootstrap or Tailwind.
 - Add a dashboard for graphical insights into student performance.
 - Include a search feature with advanced filters.
