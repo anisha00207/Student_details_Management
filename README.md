@@ -107,7 +107,7 @@ The project uses responsive design to ensure compatibility with various devices:
 ## yet to come
 - Admin can insert, update, delete staff data too.
 - Attendence management
-- A homepage with detailed instructions about th website
+- A homepage with detailed instructions about the website
 
 ## Future Enhancements
 
@@ -126,4 +126,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by (https://github.com/anisha00207).
+Developed by https://github.com/anisha00207.
