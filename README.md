@@ -53,9 +53,9 @@ The **Student Management System** allows users to view student information based
 ## Setup Instructions
 
 
-1. Navigate to the htdocs directory of xampp folder and clon the repositry:
+1. Navigate to the htdocs directory of xampp folder and clone the repositry:
    ```bash
-    git clone <repository-url>
+    git clone https://github.com/anisha00207/Student_details_Management.git
    ```   
 
 2. Navigate to the project directory:
@@ -63,12 +63,12 @@ The **Student Management System** allows users to view student information based
    cd student-management-system
    ```
 
-3. create the database in php my admin and create three tables named admin, student, staff
+3. create the database in php my admin and create three tables named admin, student, staff. in admin and staff tables by default add some members
 
 4. Set up the database:
     - Update the `dblink.php` file with your database credentials.
 
-5. Start a local PHP server:
+5. Start a local PHP server with the help of Apache or any other web server:
    ```bash
    php -S localhost:8000
    ```
@@ -92,6 +92,11 @@ The **Student Management System** allows users to view student information based
 
 3. **Navigation**:
    - Use the navigation bar to access the Admin and Staff login pages or the About page.
+
+4. **operations**:
+   - login to the Admin site to update, add , delete data.
+   -  - login to the staff site to update, add , delete data of a specific class.
+  
 
 ---
 
